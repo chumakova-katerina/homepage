@@ -1,4 +1,4 @@
-# Homepage
+# homepage
 Personal website. Basically this is just a résumé.
 
 **Installation:** no need for special installation.
