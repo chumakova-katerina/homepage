@@ -1,0 +1,12 @@
+.grid > .row > [class*="three wide"].column
+{
+    width: 40% !important;
+}
+.grid > .row > [class*="thirteen wide"].column
+{
+    width: 60% !important;
+}
+.avatar {
+    padding-top: 1rem;
+    max-width: 250px;
+}
