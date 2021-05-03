@@ -1,0 +1,71 @@
+.page[style^="border-color"]::before {
+    border-width: 0.35em;
+}
+
+.grid > .row > [class*="three wide"].column {
+    width: 40% !important;
+}
+
+.grid > .row > [class*="thirteen wide"].column {
+    width: 60% !important;
+}
+
+.avatar {
+    max-width: 250px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+}
+
+.svg-icon:hover {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+}
+
+.divider.fat {
+    border-top: 0.18em solid rgba(10, 10, 10, 1);
+    width: 100%;
+}
+
+.tags {
+    text-transform: uppercase;
+}
+
+.timeline > li > ul > li,
+.timeline p {
+    padding-top: 5px;
+}
+
+p > a {
+    color: #A2BC4F;
+}
+
+.btn {
+    display: inline-block;
+    box-shadow: 1px 1px 5px #888888;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #000;
+    background-color: #A2BC4F;
+    border-bottom: 2px solid #787F3D;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #787F3D;
+    border-bottom: 2px solid #505428;
+    outline: none;
+}
+
+.btn:active {
+    background-color: #A5AE54;
+    border-top: 2px solid #787F3D;
+    margin-top: 2px;
+}
