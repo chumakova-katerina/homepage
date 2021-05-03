@@ -1,9 +1,23 @@
-# homepage
-Personal website. Basically this is just a résumé.
+Homepage
+=====
+#### Personal website. Basically this is just a résumé.
+------
 
-**Installation:** no need for special installation.
+![Screenshot](screenshots/resume_screenshot.png "Screenshot")
 
-**Usage:** you can read provided information and invite me to work
+#### Installation 
+No special installation required, just copy the files. 
+Don't forget about folders)
 
-**Contributing:** you can hire me :)
+#### Usage
+You can read provided information and invite me to work.
+Or save my CV_Frodo_Baggins.pdf file from CV folder for future. 
 
+#### Contributing
+You can hire me :)
+
+#### Credits
+Thanks [Volodymyr Kushnir](https://github.com/volodymyr-kushnir) for Lectures and Framework
+
+#### License
+MIT
