@@ -6,11 +6,11 @@ Homepage
 ![Screenshot](screenshots/resume_screenshot.png "Screenshot")
 
 ### Installation 
-No special installation required, just copy the files. 
+No special installation required, just copy the files.  
 Don't forget about folders)
 
 ### Usage
-You can read provided information and invite me to work.
+You can read provided information and invite me to work.  
 Or save my CV_Frodo_Baggins.pdf file from CV folder for future. 
 
 ### Contributing
