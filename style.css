@@ -10,3 +10,17 @@
     padding-top: 1rem;
     max-width: 250px;
 }
+.tags {
+    text-transform: uppercase;
+}
+.timeline > li > ul> li,
+.timeline p
+{
+    padding-top: 5px;
+}
+p > a {
+    color: #A2BC4F;
+}
+.page[style^="border-color"]::before {
+    border-width: 0.35em;
+}
