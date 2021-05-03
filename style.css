@@ -1,31 +1,44 @@
 .page[style^="border-color"]::before {
     border-width: 0.35em;
 }
-.grid > .row > [class*="three wide"].column
-{
+
+.grid > .row > [class*="three wide"].column {
     width: 40% !important;
 }
-.grid > .row > [class*="thirteen wide"].column
-{
+
+.grid > .row > [class*="thirteen wide"].column {
     width: 60% !important;
 }
+
 .avatar {
     max-width: 250px;
     border-radius: 50%;
     overflow: hidden;
 }
+
+.svg-icon {
+    width: 3em;
+    height: 3em;
+}
+
+.svg-icon:hover {
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.7);
+}
+
 .divider.fat {
     border-top: 0.18em solid rgba(10, 10, 10, 1);
     width: 100%;
 }
+
 .tags {
     text-transform: uppercase;
 }
-.timeline > li > ul> li,
-.timeline p
-{
+
+.timeline > li > ul > li,
+.timeline p {
     padding-top: 5px;
 }
+
 p > a {
     color: #A2BC4F;
 }
