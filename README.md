@@ -5,19 +5,19 @@ Homepage
 
 ![Screenshot](screenshots/resume_screenshot.png "Screenshot")
 
-#### Installation 
+### Installation 
 No special installation required, just copy the files. 
 Don't forget about folders)
 
-#### Usage
+### Usage
 You can read provided information and invite me to work.
 Or save my CV_Frodo_Baggins.pdf file from CV folder for future. 
 
-#### Contributing
+### Contributing
 You can hire me :)
 
-#### Credits
+### Credits
 Thanks [Volodymyr Kushnir](https://github.com/volodymyr-kushnir) for Lectures and Framework
 
-#### License
+### License
 MIT
