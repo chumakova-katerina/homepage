@@ -42,3 +42,30 @@
 p > a {
     color: #A2BC4F;
 }
+
+.btn {
+    display: inline-block;
+    box-shadow: 1px 1px 5px #888888;
+    padding: 6px 12px;
+    line-height: 1.42857143;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    text-transform: uppercase;
+    color: #000;
+    background-color: #A2BC4F;
+    border-bottom: 2px solid #787F3D;
+}
+
+.btn:hover {
+    color: #fff;
+    background-color: #787F3D;
+    border-bottom: 2px solid #505428;
+    outline: none;
+}
+
+.btn:active {
+    background-color: #A5AE54;
+    border-top: 2px solid #787F3D;
+    margin-top: 2px;
+}
