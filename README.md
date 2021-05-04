@@ -21,3 +21,5 @@ Thanks [Volodymyr Kushnir](https://github.com/volodymyr-kushnir) for Lectures an
 
 ### License
 MIT
+
+🧙Hocus-pocus!
